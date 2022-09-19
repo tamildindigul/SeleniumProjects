@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-19T23:11:38 IST" name="Surefire suite" finished-at="2022-09-19T23:12:05 IST" duration-ms="27522">
+    <groups>
+    </groups>
+    <test started-at="2022-09-19T23:11:38 IST" name="Surefire test" finished-at="2022-09-19T23:12:05 IST" duration-ms="27522">
+      <class name="testpageobjectmodelconcept.Testloginpage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testpageobjectmodelconcept.Testloginpage@5606c0b]" started-at="2022-09-19T23:11:38 IST" name="setup" finished-at="2022-09-19T23:11:47 IST" duration-ms="9431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validatetit()[pri:1, instance:testpageobjectmodelconcept.Testloginpage@5606c0b]" started-at="2022-09-19T23:11:47 IST" name="validatetit" finished-at="2022-09-19T23:11:47 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatetit -->
+        <test-method is-config="true" signature="testclose()[pri:0, instance:testpageobjectmodelconcept.Testloginpage@5606c0b]" started-at="2022-09-19T23:11:47 IST" name="testclose" finished-at="2022-09-19T23:11:50 IST" duration-ms="2532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testclose -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testpageobjectmodelconcept.Testloginpage@5606c0b]" started-at="2022-09-19T23:11:50 IST" name="setup" finished-at="2022-09-19T23:11:57 IST" duration-ms="7438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="imagecheck()[pri:2, instance:testpageobjectmodelconcept.Testloginpage@5606c0b]" started-at="2022-09-19T23:11:57 IST" name="imagecheck" finished-at="2022-09-19T23:11:57 IST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imagecheck -->
+        <test-method is-config="true" signature="testclose()[pri:0, instance:testpageobjectmodelconcept.Testloginpage@5606c0b]" started-at="2022-09-19T23:11:57 IST" name="testclose" finished-at="2022-09-19T23:11:58 IST" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testclose -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testpageobjectmodelconcept.Testloginpage@5606c0b]" started-at="2022-09-19T23:11:58 IST" name="setup" finished-at="2022-09-19T23:12:05 IST" duration-ms="7624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginchecking()[pri:3, instance:testpageobjectmodelconcept.Testloginpage@5606c0b]" started-at="2022-09-19T23:12:05 IST" name="loginchecking" finished-at="2022-09-19T23:12:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginchecking -->
+        <test-method is-config="true" signature="testclose()[pri:0, instance:testpageobjectmodelconcept.Testloginpage@5606c0b]" started-at="2022-09-19T23:12:05 IST" name="testclose" finished-at="2022-09-19T23:12:05 IST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testclose -->
+      </class> <!-- testpageobjectmodelconcept.Testloginpage -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -40,7 +40,7 @@ public void imagecheck()
 public void loginchecking()
 {
 //	login.login(prop., pwd)
-homepage=login.login(prop.getProperty("username"),prop.getProperty("password"));
+//homepage=login.login(prop.getProperty("username"),prop.getProperty("password"));
 
 }
 @AfterMethod

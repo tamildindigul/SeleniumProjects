@@ -21,7 +21,8 @@ public class Loginpageclass extends Pagebaseclass{
     WebElement Reset;
     @FindBy(xpath="/html/body/div[1]/div[1]/div[1]/div[1]/a/img")
     WebElement image;
-    public Loginpageclass() {
+    public Loginpageclass() 
+    {
     	PageFactory.initElements(driver, this);
     }
     public String validatetile()
